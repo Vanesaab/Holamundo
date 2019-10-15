@@ -8,6 +8,9 @@ public class holamundo {
 		System.out.println("Hola Mundo");
 		Coche coche = new Coche();
 		coche.saludar();
+		Humano humano = new Humano();
+		humano.saludar();
+		
 	}
 
 }
